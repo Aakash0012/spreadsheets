@@ -1,0 +1,9 @@
+MANIFEST.in
+Readme.txt
+setup.py
+gillu.egg-info/PKG-INFO
+gillu.egg-info/SOURCES.txt
+gillu.egg-info/dependency_links.txt
+gillu.egg-info/top_level.txt
+vicks/__init__.py
+vicks/account.py
